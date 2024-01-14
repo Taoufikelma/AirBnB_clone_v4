@@ -153,7 +153,8 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-
+## Authors
+Edgar Baluku - [Github](https://github.com/Balukuu) / [Twitter](https://twitter.com/edgarbaluku)
 Second part of Airbnb: 
 ## License
 Public Domain. No copy write protection. 
